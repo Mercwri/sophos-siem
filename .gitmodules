@@ -1,0 +1,3 @@
+[submodule "Sophos-Central-SIEM-Integration"]
+	path = Sophos-Central-SIEM-Integration
+	url = https://github.com/sophos/Sophos-Central-SIEM-Integration.git
